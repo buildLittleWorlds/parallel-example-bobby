@@ -1,5 +1,3 @@
-Note: This is a parallel worked example, not the student's actual work.
-
 # Quest Seed Usability Lab: Evaluating AI Game-Writing Outputs Through Realistic Project Constraints
 
 ## Abstract

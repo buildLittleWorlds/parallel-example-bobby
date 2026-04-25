@@ -1,5 +1,3 @@
-Note: This is a parallel worked example, not the student's actual work.
-
 # Parallel Example: Quest Seed Usability Lab
 
 This packet models how a game-development interest could become a research journal and paper-lite draft. It is adjacent to game design and generative AI work, but it does not describe the student's actual project.

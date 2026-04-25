@@ -1,5 +1,3 @@
-Note: This is a parallel worked example, not the student's actual work.
-
 # Research Journal: Quest Seed Usability Lab
 
 ## Week 1 - Generic prompts look better than they are
